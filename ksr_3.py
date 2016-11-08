@@ -4,7 +4,6 @@ def get_digit_sum(num):
         digit = i % 10 + i % 100 // 10 + i // 100
         if digit == 7:
             list_digit.append(i)
-            i += 1
     return list_digit
 
 
