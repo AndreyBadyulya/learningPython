@@ -1,0 +1,4 @@
+!!python/object:__main__.Book
+author: Mark Smith
+isbn: 1234554321
+name: Lazy stories
